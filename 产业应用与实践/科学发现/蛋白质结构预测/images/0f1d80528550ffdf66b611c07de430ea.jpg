@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <title>Crossmark</title>
+        <link href="https://crossmark-cdn.crossref.org/main.css" rel="stylesheet">
+        <link rel="apple-touch-icon" sizes="57x57" href="https://assets.crossref.org/favicon/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="https://assets.crossref.org/favicon/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://assets.crossref.org/favicon/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://assets.crossref.org/favicon/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://assets.crossref.org/favicon/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://assets.crossref.org/favicon/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://assets.crossref.org/favicon/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://assets.crossref.org/favicon/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://assets.crossref.org/favicon/apple-touch-icon-180x180.png">
+        <link rel="icon" type="image/png" href="https://assets.crossref.org/favicon/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="https://assets.crossref.org/favicon/android-chrome-192x192.png" sizes="192x192">
+        <link rel="icon" type="image/png" href="https://assets.crossref.org/favicon/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="https://assets.crossref.org/favicon/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="https://assets.crossref.org/favicon/manifest.json">
+        <link rel="mask-icon" href="https://assets.crossref.org/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="apple-mobile-web-app-title" content="Crossref">
+        <meta name="application-name" content="Crossref">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="msapplication-TileImage" content="https://assets.crossref.org/favicon/mstile-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+    </head>
+
+    <body>
+        <section class="page">
+
+            <div class="header">
+                <img class="header__logo" src="https://crossmark-cdn.crossref.org/images/logo-crossmark.svg">
+            </div>
+
+
+
+
+
+
+                <section class="document-status document-status--current">
+                    <header class="document-status__header">
+                        <h1 class="document-status__title">
+                            <span class="document-status__title__text">Document is current</span>
+                        </h1>
+                        <h2 class="document-status__subtitle">
+                            <span class="document-status__subtitle__text">Any future updates will be listed below</span>
+                        </h2>
+                    </header>
+                </section>
+
+            <section class="document-metadata">
+              <p class="document-metadata__text">Highly accurate protein structure prediction with AlphaFold</p>
+                <p class="document-metadata__text">
+                    Crossref DOI link:
+                    <a href="https://doi.org/10.1038/s41586-021-03819-2" target="_blank">https://doi.org/10.1038/s41586-021-03819-2</a>
+                </p>
+                <p class="document-metadata__text">Published Online: 2021-07-15</p>
+                <p class="document-metadata__text">Published Print: 2021-08-26</p>
+                <p class="document-metadata__text">Update policy: <a href="https://doi.org/10.1007/springer_crossmark_policy" target="_blank">https://doi.org/10.1007/springer_crossmark_policy</a></p>
+            </section>
+            <ul class="records">
+
+
+                <li class="records__item">
+                    <a class="records__item__link" role="button" data-toggle="author-collapse" aria-expanded="false" aria-controls="author-collapse">Authors</a>
+                    <div class="records__item__content" id="author-collapse">
+                        <div class="records__item__content__block">
+                          
+                          <p class="records__item__content__text">Jumper, John 
+                          
+                            <a href="https://orcid.org/0000-0001-6169-6580" target="_blank">https://orcid.org/0000-0001-6169-6580</a>
+                          
+                          
+                          <p class="records__item__content__text">Evans, Richard 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Pritzel, Alexander 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Green, Tim 
+                          
+                            <a href="https://orcid.org/0000-0002-3227-1505" target="_blank">https://orcid.org/0000-0002-3227-1505</a>
+                          
+                          
+                          <p class="records__item__content__text">Figurnov, Michael 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Ronneberger, Olaf 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Tunyasuvunakool, Kathryn 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Bates, Russ 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Žídek, Augustin 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Potapenko, Anna 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Bridgland, Alex 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Meyer, Clemens 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Kohl, Simon A. A. 
+                          
+                            <a href="https://orcid.org/0000-0003-4271-4418" target="_blank">https://orcid.org/0000-0003-4271-4418</a>
+                          
+                          
+                          <p class="records__item__content__text">Ballard, Andrew J. 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Cowie, Andrew 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Romera-Paredes, Bernardino 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Nikolov, Stanislav 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Jain, Rishub 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Adler, Jonas 
+                          
+                            <a href="https://orcid.org/0000-0001-9928-3407" target="_blank">https://orcid.org/0000-0001-9928-3407</a>
+                          
+                          
+                          <p class="records__item__content__text">Back, Trevor 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Petersen, Stig 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Reiman, David 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Clancy, Ellen 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Zielinski, Michal 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Steinegger, Martin 
+                          
+                            <a href="https://orcid.org/0000-0001-8781-9753" target="_blank">https://orcid.org/0000-0001-8781-9753</a>
+                          
+                          
+                          <p class="records__item__content__text">Pacholska, Michalina 
+                          
+                            <a href="https://orcid.org/0000-0002-2160-6226" target="_blank">https://orcid.org/0000-0002-2160-6226</a>
+                          
+                          
+                          <p class="records__item__content__text">Berghammer, Tamas 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Bodenstein, Sebastian 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Silver, David 
+                          
+                            <a href="https://orcid.org/0000-0002-5197-2892" target="_blank">https://orcid.org/0000-0002-5197-2892</a>
+                          
+                          
+                          <p class="records__item__content__text">Vinyals, Oriol 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Senior, Andrew W. 
+                          
+                            <a href="https://orcid.org/0000-0002-2401-5691" target="_blank">https://orcid.org/0000-0002-2401-5691</a>
+                          
+                          
+                          <p class="records__item__content__text">Kavukcuoglu, Koray 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Kohli, Pushmeet 
+                          
+                            </p>
+                          
+                          
+                          <p class="records__item__content__text">Hassabis, Demis 
+                          
+                            <a href="https://orcid.org/0000-0003-2812-9917" target="_blank">https://orcid.org/0000-0003-2812-9917</a>
+                          
+                          
+                        </div>
+                    </div>
+                </li>
+
+
+
+
+
+
+
+                 <li class="records__item">
+                    <a class="records__item__link" role="button" data-toggle="license-collapse" aria-expanded="false" aria-controls="license-collapse">License Information</a>
+                    <div class="records__item__content" id="license-collapse">
+                        <div class="records__item__content__block">
+                          
+                            <p class="records__item__content__text"><a href="https://creativecommons.org/licenses/by/4.0" target="_blank"> Text and Data Mining 
+                             valid from 2021-07-15
+                            </a></p>
+                          
+                            <p class="records__item__content__text"><a href="https://creativecommons.org/licenses/by/4.0" target="_blank"> Version of Record 
+                             valid from 2021-07-15
+                            </a></p>
+                          
+                        </div>
+                    </div>
+                </li>
+
+
+
+                <li class="records__item">
+                  <a class="records__item__link" role="button" data-toggle="extra-collapse" aria-expanded="false" aria-controls="extra-collapse">More Information</a>
+                  <div class="records__item__content" id="extra-collapse">
+                    <div class="records__item__content__block">
+                    
+
+                        
+                          <div class="records__item__content__group">
+                            
+
+                            
+                            <p class="records__item__content__text records__item__content__text--standfirst">Article History</p>
+                            
+
+                            
+                              <p class="records__item__content__text">
+                                
+                                  Received:
+                                
+                                
+                                  11 May 2021
+                                
+                            </p>
+                          
+                              <p class="records__item__content__text">
+                                
+                                  Accepted:
+                                
+                                
+                                  12 July 2021
+                                
+                            </p>
+                          
+                              <p class="records__item__content__text">
+                                
+                                  First Online:
+                                
+                                
+                                  15 July 2021
+                                
+                            </p>
+                          
+                        </div>
+                        
+                          <div class="records__item__content__group">
+                            
+
+                            
+                            <p class="records__item__content__text records__item__content__text--standfirst">Competing interests</p>
+                            
+
+                            
+                              <p class="records__item__content__text">
+                                
+                                  :
+                                
+                                
+                                  J.J., R.E., A. Pritzel, T.G., M.F., O.R., R.B., A.B., S.A.A.K., D.R. and A.W.S. have filed non-provisional patent applications 16/701,070 and PCT/EP2020/084238, and provisional patent applications 63/107,362, 63/118,917, 63/118,918, 63/118,921 and 63/118,919, each in the name of DeepMind Technologies Limited, each pending, relating to machine learning for predicting protein structures. The other authors declare no competing interests.
+                                
+                            </p>
+                          
+                        </div>
+                        
+
+                  </div>
+                  </div>
+              </li>
+
+
+
+            </ul>
+        </section>
+
+        <div class="footer">
+            <a class="footer-logo" href="http://www.crossref.org" target="_blank">
+                <img src="https://crossmark-cdn.crossref.org/images/logo-crossref.svg" alt="Crossref logo" width="80">
+            </a>
+            <span class="footer-link"><a href="http://crossmark.crossref.org/" target="_blank">About CrossMark</a></span>
+            
+            <!-- Did not verify script. -->
+            <script>console.error && console.error("Crossmark Script out of date.")</script>
+            
+        </div>
+
+        <script src="https://crossmark-cdn.crossref.org/script.js"></script>
+    </body>
+
+</html>

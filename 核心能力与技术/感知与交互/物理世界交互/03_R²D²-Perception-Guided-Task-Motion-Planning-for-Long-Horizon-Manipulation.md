@@ -2,16 +2,30 @@
 
 **来源**: [https://developer.nvidia.com/blog/r2d2-perception-guided-task-amp-motion-planning-for-long-horizon-manipulation/](https://developer.nvidia.com/blog/r2d2-perception-guided-task-amp-motion-planning-for-long-horizon-manipulation/)
 
-**类型**: blog
+---
 
-## 简介
+# R²D²: Perception-Guided Task & Motion Planning for Long-Horizon Manipulation | NVIDIA Technical Blog
 
-An NVIDIA Technical Blog post detailing the R²D² framework, which integrates perception with Task and Motion Planning (TAMP) to enable robots to update plans mid-execution and adapt to dynamic scenarios in long-horizon manipulation tasks. It discusses OWL-TAMP, VLM-TAMP, and the GPU-accelerated cuTAMP.
+原文链接: https://developer.nvidia.com/blog/r2d2-perception-guided-task-amp-motion-planning-for-long-horizon-manipulation/
 
-## 原文内容
+[Robotics](https://developer.nvidia.com/blog/category/robotics/)
 
-由于内容较长，请访问原始链接查看完整内容：[https://developer.nvidia.com/blog/r2d2-perception-guided-task-amp-motion-planning-for-long-horizon-manipulation/](https://developer.nvidia.com/blog/r2d2-perception-guided-task-amp-motion-planning-for-long-horizon-manipulation/)
+
+
+English한국어中文
+
+# R²D²: Perception-Guided Task & Motion Planning for Long-Horizon Manipulation
+
+![](https://developer-blogs.nvidia.com/wp-content/uploads/2025/10/2025_R2D2_RoboticManipulation.gif)
+
+Nov 04, 2025
+
+By [Raffaello Bonghi](https://developer.nvidia.com/blog/author/raffaellobonghi/ "Posts by Raffaello Bonghi") and [Edith Llontop](https://developer.nvidia.com/blog/author/edithllontop/ "Posts by Edith Llontop")
+
+Like
+
+[Discuss (0)](#entry-content-comments)
 
 ---
 
-*注：本文档为自动生成的资料索引*
+*爬取时间: 2025-11-28 21:51:11*
